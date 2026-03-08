@@ -87,7 +87,7 @@ Below screenshot shows the **AWS EKS Cluster created for the deployment**.
 
 The **AWS Load Balancer Controller** automatically created an Application Load Balancer to expose the application.
 
-![AWS Load Balancer](images/aws-Ib-screenshot.png)
+![AWS Load Balancer](images/aws-lb-screenshot.png)
 
 ---
 
