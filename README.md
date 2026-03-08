@@ -338,15 +338,4 @@ eksctl delete cluster --name mahe-cluster-three-tier --region us-east-1
 
 ---
 
-# 👨‍💻 Author
-
-**Mahesh Bodkhe**
-
-DevOps Engineer | Cloud Enthusiast
-
-GitHub:
-https://github.com/maheshbodkhedev
-
----
-
 ⭐ If you found this project helpful, please **star the repository**!
